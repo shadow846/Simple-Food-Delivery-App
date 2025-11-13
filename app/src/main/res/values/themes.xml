@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FoodApp23" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FFD700</item>
+        <item name="colorPrimaryVariant">#FFD700</item>
+
+    </style>
+
+    <style name="Theme.FoodApp23" parent="Base.Theme.FoodApp23" />
+</resources>
